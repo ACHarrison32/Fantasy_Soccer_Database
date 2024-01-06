@@ -4,6 +4,8 @@
 
 ## :man_technologist: Team Members
 
+|      Name       |         Email            |
+| --------------- | ------------------------ |
 | Andrew Harrison | ACHarrison1123@gmail.com |
 |    Sudhir Ray   |  RaySudhir7733@gmail.com |
 
